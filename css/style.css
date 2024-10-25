@@ -1,0 +1,21 @@
+body, input{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+}
+
+body {
+    background-image: url(https://i.pinimg.com/originals/58/9c/18/589c18531c692fe1a96d2d05cbdc7868.png);
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin-top: 5px;
+}
+
+fieldset{
+    width: 300px;
+    border: 2px solid green;
+}
